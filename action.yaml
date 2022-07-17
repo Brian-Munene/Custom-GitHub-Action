@@ -1,0 +1,10 @@
+name: "Munene Keyword Releaser"
+description: "Create a release based on a keyword"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: 'package'
+  color: 'blue'
